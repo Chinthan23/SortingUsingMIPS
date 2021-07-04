@@ -9,3 +9,5 @@ MARS MIPS simulator.
 
 Bubble sort Implementation by Chinthan Chandra.
 Selection sort implementation by Tejas Sharma
+
+Instructions and other things described in report.
